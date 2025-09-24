@@ -8,6 +8,11 @@
   <img src="images/铂金密信1.png" alt="铂金密信1" width="640">
   <img src="images/铂金密信2.png" alt="铂金密信2" width="640">
 
+- wp02b_skin03：皮肤·熊熊突击【芙提雅·驰掣】
+  <img src="images/龙狙.jpg" alt="熊熊突击" width="640">
+  <img src="images/龙狙2.jpg" alt="熊熊突击2" width="640">
+  <img src="images/龙狙3.jpg" alt="熊熊突击3" width="640">
+
 ## 未完成
 
 - wp09a_001a：速旋青雨【凯西娅·狂诗】
@@ -36,7 +41,6 @@
 - wp03a_skin01：皮肤·全糖蜜令【芬妮·咎冠】
 - Wp02b_Skin05：皮肤·爱彻晴空【薇蒂雅·天鹅座】
 - wp02b_skin04：皮肤·清凉公式【芙提雅·驰掣】
-- wp02b_skin03：皮肤·熊熊突击【芙提雅·驰掣】
 - wp02a_skin02：皮肤·拒绝加班【肴·养生专家】
 - wp01b_skin01：皮肤·融月流金【琴诺·悖谬】
 - wp01a_skin03：皮肤·忠诚之勋【肴·夜天光】
