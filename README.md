@@ -13,6 +13,11 @@
   <img src="images/龙狙2.jpg" alt="熊熊突击2" width="640">
   <img src="images/龙狙3.jpg" alt="熊熊突击3" width="640">
 
+- wp01d_skin05：皮肤·清波储备【芬妮·澄意】
+  <img src="images/波波沙.png" alt="清波储备" width="640">
+  <img src="images/波波沙2.png" alt="清波储备2" width="640">
+  <img src="images/波波沙3.png" alt="清波储备3" width="640">
+
 ## 未完成
 
 - wp09a_001a：速旋青雨【凯西娅·狂诗】
